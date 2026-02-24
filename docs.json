@@ -12,36 +12,36 @@
     "products": [
       {
         "product": "Docs",
-          "groups": [
-            {
-              "group": "Welcome",
-              "pages": [
-                "welcome"
-              ]
-            }
-          ]
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "welcome"
+            ]
+          }
+        ]
       },
       {
         "product": "Changelogs",
-          "pages": [
-            "changelogs",
-            {
-              "group": "Main Website",
-              "pages": [
-                "untitled-page"
-              ]
-            },
-            {
-              "group": "Flash Archive",
-              "pages": [
-                "commit-57"
-              ]
-            },
-            {
-              "group": "5 O'Clock",
-              "pages": []
-            }
-          ]
+        "pages": [
+          "changelogs",
+          {
+            "group": "Main Website",
+            "pages": [
+              "commit-254"
+            ]
+          },
+          {
+            "group": "Flash Archive",
+            "pages": [
+              "commit-57"
+            ]
+          },
+          {
+            "group": "5 O'Clock",
+            "pages": []
+          }
+        ]
       }
     ]
   },
