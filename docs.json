@@ -20,6 +20,27 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Changelogs",
+        "groups": [
+          {
+            "group": "Main Website",
+            "pages": [
+              "untitled-page"
+            ]
+          },
+          {
+            "group": "Flash Archive",
+            "pages": [
+              "commit-57"
+            ]
+          },
+          {
+            "group": "5 O'Clock",
+            "pages": []
+          }
+        ]
       }
     ]
   },
