@@ -50,7 +50,12 @@
     "dark": "/logo/GOTL.svg"
   },
   "navbar": {
-    "links": [],
+    "links": [
+      {
+        "label": "Send Feedback",
+        "href": "https://github.com/transfem-emilia/docs/issues"
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Back to Great On The Lakes.com",
@@ -74,5 +79,8 @@
       "x": "https://x.com/transfem_emilia",
       "github": "https://github.com/transfem-emilia"
     }
+  },
+  "banner": {
+    "content": "GOTLdoc is Beta Technology! Please Report Feedback via the \"Send Feedback\" button in the navbar."
   }
 }
