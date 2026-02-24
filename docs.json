@@ -9,37 +9,47 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "Docs",
-        "groups": [
+        "product": "Docs",
+        "tabs": [
           {
-            "group": "Welcome",
-            "pages": [
-              "welcome"
+            "tab": "Docs",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "welcome"
+                ]
+              }
             ]
           }
         ]
       },
       {
-        "tab": "Changelogs",
-        "pages": [
-          "changelogs",
+        "product": "Changelogs",
+        "tabs": [
           {
-            "group": "Main Website",
+            "tab": "Changelogs",
             "pages": [
-              "untitled-page"
+              "changelogs",
+              {
+                "group": "Main Website",
+                "pages": [
+                  "untitled-page"
+                ]
+              },
+              {
+                "group": "Flash Archive",
+                "pages": [
+                  "commit-57"
+                ]
+              },
+              {
+                "group": "5 O'Clock",
+                "pages": []
+              }
             ]
-          },
-          {
-            "group": "Flash Archive",
-            "pages": [
-              "commit-57"
-            ]
-          },
-          {
-            "group": "5 O'Clock",
-            "pages": []
           }
         ]
       }
