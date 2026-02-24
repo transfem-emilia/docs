@@ -47,7 +47,8 @@
   },
   "logo": {
     "light": "/logo/GOTL.svg",
-    "dark": "/logo/GOTL.svg"
+    "dark": "/logo/GOTL.svg",
+    "href": "https://docs.greatonthelakes.com/"
   },
   "navbar": {
     "links": [
@@ -77,10 +78,15 @@
   "footer": {
     "socials": {
       "x": "https://x.com/transfem_emilia",
-      "github": "https://github.com/transfem-emilia"
+      "github": "https://github.com/transfem-emilia",
+      "instagram": "https://instagram.com/cornelia_street_13",
+      "threads": "https://threads.net/@cornelia_street_13"
     }
   },
   "banner": {
     "content": "GOTLdoc is Beta Technology! Please Report Feedback via the \"Send Feedback\" button in the navbar."
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
