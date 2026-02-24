@@ -28,12 +28,7 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Main Website",
-        "href": "https://greatonthelakes.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Back to Great On The Lakes.com",
