@@ -23,7 +23,7 @@
       },
       {
         "tab": "Changelogs",
-        "groups": [
+        "pages": [
           {
             "group": "Main Website",
             "pages": [
@@ -39,7 +39,8 @@
           {
             "group": "5 O'Clock",
             "pages": []
-          }
+          },
+          "changelogs"
         ]
       }
     ]
