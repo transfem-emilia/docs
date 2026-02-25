@@ -76,23 +76,24 @@
       },
       {
         "product": "Changelogs",
-        "pages": [
-          "changelogs",
+        "versions": [
           {
-            "group": "Main Website",
+            "version": "Welcome to the Changelogs",
+            "pages": [
+              "changelogs"
+            ]
+          },
+          {
+            "version": "Main Website",
             "pages": [
               "commit-254"
             ]
           },
           {
-            "group": "Flash Archive",
+            "version": "Flash Archive",
             "pages": [
               "commit-57"
             ]
-          },
-          {
-            "group": "5 O'Clock",
-            "pages": []
           }
         ]
       }
