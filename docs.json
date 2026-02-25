@@ -46,8 +46,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/GOTL.svg",
-    "dark": "/logo/GOTL.svg",
+    "light": "/logo/GOTLdoc.svg",
+    "dark": "/logo/GOTLdoc.svg",
     "href": "https://docs.greatonthelakes.com/"
   },
   "navbar": {
