@@ -11,13 +11,70 @@
   "navigation": {
     "products": [
       {
+        "product": "Welcome",
+        "pages": [
+          "welcome-to-gotldoc"
+        ]
+      },
+      {
         "product": "Docs",
-        "groups": [
+        "versions": [
           {
-            "group": "Welcome",
-            "pages": [
-              "welcome"
+            "version": "Welcome",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "welcome"
+                ]
+              }
             ]
+          },
+          {
+            "version": "GOTLcom",
+            "products": [
+              {
+                "product": "Home Page, Navbar, and Footer",
+                "groups": [
+                  {
+                    "group": "Home Page",
+                    "pages": []
+                  },
+                  {
+                    "group": "Navbar",
+                    "pages": []
+                  },
+                  {
+                    "group": "Footer",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "product": "Photo Collections"
+              },
+              {
+                "product": "It's 5 O'Clock Somewhere"
+              },
+              {
+                "product": "Flash Game Archive"
+              },
+              {
+                "product": "US Constitution"
+              },
+              {
+                "product": "Canadian Charter of Rights and Freedoms"
+              }
+            ]
+          },
+          {
+            "version": "YouTube Video Downloader"
+          },
+          {
+            "version": "Chromium Update Batch Script"
+          },
+          {
+            "version": "Discord Translation Bot"
           }
         ]
       },
