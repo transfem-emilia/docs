@@ -20,7 +20,7 @@
         "product": "Docs",
         "versions": [
           {
-            "version": "Welcome",
+            "version": "Welcome to Docs on GOTLdoc",
             "groups": [
               {
                 "group": "Welcome",
@@ -34,18 +34,14 @@
             "version": "GOTLcom",
             "products": [
               {
-                "product": "Home Page, Navbar, and Footer",
+                "product": "Getting Started",
                 "groups": [
                   {
-                    "group": "Home Page",
+                    "group": "Getting Started",
                     "pages": []
                   },
                   {
-                    "group": "Navbar",
-                    "pages": []
-                  },
-                  {
-                    "group": "Footer",
+                    "group": "Navigating GOTLcom",
                     "pages": []
                   }
                 ]
