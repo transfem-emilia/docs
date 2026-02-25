@@ -13,7 +13,7 @@
       {
         "product": "Welcome",
         "pages": [
-          "welcome-to-gotldoc"
+          "welcome"
         ]
       },
       {
@@ -25,7 +25,7 @@
               {
                 "group": "Welcome",
                 "pages": [
-                  "welcome"
+                  "welcome-docs"
                 ]
               }
             ]
