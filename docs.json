@@ -53,7 +53,15 @@
                 "product": "It's 5 O'Clock Somewhere"
               },
               {
-                "product": "Flash Game Archive"
+                "product": "Flash Game Archive",
+                "groups": [
+                  {
+                    "group": "Saves",
+                    "pages": [
+                      "how-to-download-and-upload-saves"
+                    ]
+                  }
+                ]
               },
               {
                 "product": "US Constitution"
