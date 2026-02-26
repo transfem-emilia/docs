@@ -17,59 +17,70 @@
         ]
       },
       {
-        "product": "Docs",
+        "product": "GOTLcom Docs",
         "versions": [
           {
-            "version": "Welcome to Docs on GOTLdoc",
+            "version": "Welcome to GOTLcom Docs",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "welcome-to-the-got-lcom-documentation-on-got-ldoc"
+                ]
+              }
+            ]
+          },
+          {
+            "version": "Getting Started",
+            "groups": [
+              {
+                "group": "Getting Started",
+                "pages": [
+                  "getting-started-with-got-lcom"
+                ]
+              },
+              {
+                "group": "Navigating GOTLcom",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "version": "Photo Collections"
+          },
+          {
+            "version": "It's 5 O'Clock Somewhere"
+          },
+          {
+            "version": "Flash Archive",
+            "groups": [
+              {
+                "group": "Saves",
+                "pages": [
+                  "how-to-download-and-upload-saves"
+                ]
+              }
+            ]
+          },
+          {
+            "version": "US Constitution"
+          },
+          {
+            "version": "Canadian Charter of Rights and Freedoms"
+          }
+        ]
+      },
+      {
+        "product": "Software Docs",
+        "versions": [
+          {
+            "version": "Welcome to Software Docs on GOTLdoc",
             "groups": [
               {
                 "group": "Welcome",
                 "pages": [
                   "welcome-docs"
                 ]
-              }
-            ]
-          },
-          {
-            "version": "GOTLcom",
-            "products": [
-              {
-                "product": "Getting Started",
-                "groups": [
-                  {
-                    "group": "Getting Started",
-                    "pages": [
-                      "getting-started-with-got-lcom"
-                    ]
-                  },
-                  {
-                    "group": "Navigating GOTLcom",
-                    "pages": []
-                  }
-                ]
-              },
-              {
-                "product": "Photo Collections"
-              },
-              {
-                "product": "It's 5 O'Clock Somewhere"
-              },
-              {
-                "product": "Flash Game Archive",
-                "groups": [
-                  {
-                    "group": "Saves",
-                    "pages": [
-                      "how-to-download-and-upload-saves"
-                    ]
-                  }
-                ]
-              },
-              {
-                "product": "US Constitution"
-              },
-              {
-                "product": "Canadian Charter of Rights and Freedoms"
               }
             ]
           },
