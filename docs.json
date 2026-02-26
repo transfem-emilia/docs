@@ -38,7 +38,9 @@
                 "groups": [
                   {
                     "group": "Getting Started",
-                    "pages": []
+                    "pages": [
+                      "getting-started-with-got-lcom"
+                    ]
                   },
                   {
                     "group": "Navigating GOTLcom",
