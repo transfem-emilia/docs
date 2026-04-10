@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "GOTLdoc",
+  "name": "Georgian-Speedvale Docs",
   "colors": {
     "primary": "#E27286",
     "light": "#E27286",
@@ -20,12 +20,12 @@
         "product": "GSV Website Docs",
         "versions": [
           {
-            "version": "Welcome to GOTLcom Docs",
+            "version": "Welcome to GSV Website Docs",
             "groups": [
               {
                 "group": "Welcome",
                 "pages": [
-                  "welcome-to-the-got-lcom-documentation-on-got-ldoc"
+                  "gsv-website-docs-welcome"
                 ]
               }
             ]
@@ -40,7 +40,7 @@
                 ]
               },
               {
-                "group": "Navigating GOTLcom",
+                "group": "Navigating The GSV Website",
                 "pages": []
               }
             ]
@@ -74,7 +74,7 @@
         "product": "Software Docs",
         "versions": [
           {
-            "version": "Welcome to Software Docs on GOTLdoc",
+            "version": "Welcome to Software Docs on GSV Docs",
             "groups": [
               {
                 "group": "Welcome",
