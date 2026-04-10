@@ -127,9 +127,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/GOTLdoc.svg",
-    "dark": "/logo/GOTLdoc.svg",
-    "href": "https://docs.greatonthelakes.com/"
+    "light": "/logo/GSV.svg",
+    "dark": "/logo/GSV.svg",
+    "href": "https://docs.georgian-speedvale.org/"
   },
   "navbar": {
     "links": [
@@ -140,8 +140,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Back to Great On The Lakes.com",
-      "href": "https://greatonthelakes.com"
+      "label": "Back to the Website",
+      "href": "https://georgian-speedvale.org"
     }
   },
   "contextual": {
@@ -165,7 +165,7 @@
     }
   },
   "banner": {
-    "content": "GOTLdoc is Beta Technology! Please Report Feedback via the \"Send Feedback\" button in the navbar."
+    "content": "GSV Docs are Beta Technology! Please Report Feedback via the \"Send Feedback\" button in the navbar."
   },
   "background": {
     "decoration": "windows"
