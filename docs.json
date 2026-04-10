@@ -127,8 +127,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/GSV.svg",
-    "dark": "/logo/GSV.svg",
+    "light": "/logo/GSVtext.svg",
+    "dark": "/logo/GSVtext.svg",
     "href": "https://docs.georgian-speedvale.org/"
   },
   "navbar": {
